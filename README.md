@@ -6,7 +6,7 @@ language the name of a city is pronounced.
 You can clone this repo and run this project on a device. 
 ## Usage
 Select a language from the dropdown, type in your text in the text field and press the button read.<br>
-The language of choice are:<br> 
+The languages of choice are:<br> 
 <li>:uk: English "British"</li>
 <li>:de: German</li>
 <li>:fr: French</li>
