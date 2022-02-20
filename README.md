@@ -14,7 +14,7 @@ The language of choice are:<br>
 <li>:jp: Japanese</li>
 <li>:cn: Chinese</li>
 <br>
-![Alt Text](https://gemeda.org/gif/quiz.gif)
+<img>src="https://github.com/gems2tech/how-to-say-demo/blob/main/app/src/main/res/drawable/text-to-speech.gif">
 <br>
 Press go to quiz to see if you are good at guessing the pronunciation of city 
 names in different languages.<br> 
