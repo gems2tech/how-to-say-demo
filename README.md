@@ -18,8 +18,7 @@ The language of choice are:<br>
 <br>
 Press go to quiz to see if you are good at guessing the pronunciation of city 
 names in different languages.<br> 
-<img src="https://gemeda.org/gif/quiz.gif">
-![](https://github.com/gems2tech/how-to-say-demo/blob/main/app/src/main/res/drawable/quiz.gif?raw=true)
+<img src="https://github.com/gems2tech/how-to-say-demo/blob/main/app/src/main/res/drawable/quiz.gif">
 <br>
 Feel free to fork this project and do what ever you have in mind with it.<br>
 
